@@ -1,4 +1,4 @@
-# 資策會前端工程師就業養成班｜小專｜一站式露營網站後台開發
+# 一站式露營網站後台開發
 
 此專案使用 **PHP** 和 **JavaScript** 進行開發，專注於打造一個高效的優惠券管理系統，提供使用者友好的後台操作界面。
 
@@ -29,4 +29,4 @@
 
 ---
 
-© 2024 你的名字 | [我的 GitHub](https://github.com/sth-of-yidatsai) | [回到專案總覽](https://github.com/sth-of-yidatsai/My-Project-Dashboard/tree/main)
+© 2024 蔡易達 | [我的 GitHub](https://github.com/sth-of-yidatsai) | [回到專案總覽](https://github.com/sth-of-yidatsai/My-Project-Dashboard/tree/main)
