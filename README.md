@@ -4,7 +4,7 @@
 
 在此專案中，我負責 **UI視覺設計** 與 **優惠券管理功能** 的開發，具體實現了以下功能：
 
-## 功能介紹
+### 功能介紹：
 
 <img src="https://github.com/sth-of-yidatsai/campmate/blob/main/images/%E5%84%AA%E6%83%A0%E5%88%B8%E7%AE%A1%E7%90%86.png" />
 
