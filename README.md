@@ -22,16 +22,25 @@
 - **新增**：
     <img src="https://github.com/sth-of-yidatsai/campmate/blob/main/images/%E5%84%AA%E6%83%A0%E5%88%B8%E7%AE%A1%E7%90%86%20-%20%E6%96%B0%E5%A2%9E.png" />
     每個輸入欄位皆整合 HTML5 表單驗證，確保資料格式正確，防止使用者輸入錯誤資料。
+    <br/>
+
+    <br/>
     
-  - **查看**：
+- **查看**：
     <img src="https://github.com/sth-of-yidatsai/campmate/blob/main/images/%E5%84%AA%E6%83%A0%E5%88%B8%E7%AE%A1%E7%90%86%20-%20%E6%9F%A5%E7%9C%8B.png" />
     使用者可以點擊查看優惠券的所有詳細資料，方便進行核對與確認。
+    <br/>
+
+    <br/>
     
-  - **修改**：
+- **修改**：
     <img src="https://github.com/sth-of-yidatsai/campmate/blob/main/images/%E5%84%AA%E6%83%A0%E5%88%B8%E7%AE%A1%E7%90%86%20-%20%E7%B7%A8%E8%BC%AF.png" />
     修改操作與新增類似，依然提供輸入提示，確保資料更新的準確性。
+    <br/>
+
+    <br/>
     
-  - **刪除**：
+- **刪除**：
     <img src="https://github.com/sth-of-yidatsai/campmate/blob/main/images/%E5%84%AA%E6%83%A0%E5%88%B8%E7%AE%A1%E7%90%86%20-%20%E5%88%AA%E9%99%A4.png" />
     採用軟刪除機制，避免資料永久刪除，並確保資料可以在必要時恢復。
 
