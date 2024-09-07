@@ -43,6 +43,10 @@
 - **刪除**：
     <img src="https://github.com/sth-of-yidatsai/campmate/blob/main/images/%E5%84%AA%E6%83%A0%E5%88%B8%E7%AE%A1%E7%90%86%20-%20%E5%88%AA%E9%99%A4.png" />
     採用軟刪除機制，避免資料永久刪除，並確保資料可以在必要時恢復。
+<br/>
+
+<br/>
+※ 此專案僅供資策會前端工程師就業養成班大專展示使用。
 
 ---
 
